@@ -1,5 +1,5 @@
 {
-  "active": true,
+  "name": "Admin",
   "message": "We are currently investigating an issue affecting ghost voice recognition.",
-  "severity": "medium"
+  "color": "R=1.0 G=0.0 B=0.0"
 }
