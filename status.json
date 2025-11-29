@@ -1,5 +1,5 @@
 {
   "name": "SYSTEM",
-  "message": "Test Message.",
-  "color": "R=0.0 G=1.0 B=0.0"
+  "message": "Test Notification.",
+  "color": "R=1.0 G=0.0 B=0.0"
 }
