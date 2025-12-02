@@ -1,5 +1,5 @@
 {
   "name": "SYSTEM",
-  "message": "Version 0.9.5 is out now! Please report any issues in the official Discord server which can be found in the laptop.",
-  "color": "R=0.0 G=1.0 B=0.0"
+  "message": "We are aware of the chat box causing the player to sometimes get stuck. This is currently being addressed :)",
+  "color": "R=1.0 G=0.0 B=0.0"
 }
