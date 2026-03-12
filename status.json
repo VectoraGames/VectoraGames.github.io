@@ -1,5 +1,5 @@
 {
   "name": "SYSTEM",
-  "message": "There is a known issue where Open Mic voice chat can cause a crash when entering or leaving a contract. Using Push-To-Talk during level transitions can help avoid these crashes. We’re currently investigating.",
-  "color": "R=1.0 G=1.0 B=0.0"
+  "message": "Version 0.9.7.4_5 is now available on Steam! Please verify your version in the escape menu (top right).",
+  "color": "R=0.0 G=1.0 B=0.0"
 }
