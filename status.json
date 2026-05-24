@@ -1,5 +1,5 @@
 {
   "name": "SYSTEM",
-  "message": "",
-  "color": "R=0.0 G=1.0 B=0.0"
+  "message": "Players experiencing GPU Crashes that are using AMD GPUs, please check Discord for a solution.",
+  "color": "R=1.0 G=1.0 B=0.0"
 }
