@@ -2,11 +2,9 @@
   "creators":
   [
     {"steamid" : "76561199554985248", "name" : "TWiZTEDxKLR"},
-    {"steamid" : "76561199089885536", "name" : "VileMalapert"},
     {"steamid" : "76561199213206187", "name" : "ChaoticallyToni"},
     {"steamid" : "76561199637055446", "name" : "SavRipper"},
     {"steamid" : "76561198004835807", "name" : "DonkeyShaunJr"},
-    {"steamid" : "76561197997779941", "name" : "LivanaBell"},
     {"steamid" : "76561198008784623", "name" : "GrubbinDad"},
     {"steamid" : "76561199686123490", "name" : "Shino"},
     {"steamid" : "76561199498241110", "name" : "Its_Starshi"},
@@ -19,6 +17,8 @@
     {"steamid" : "76561198247959746", "name" : "Vandyke"},
     {"steamid" : "76561198080432834", "name" : "BeardedBaron"},
     {"steamid" : "76561199221833074", "name" : "Fenton"},
-    {"steamid" : "76561199626164395", "name" : "Kenton"}
+    {"steamid" : "76561199626164395", "name" : "Kenton"},
+    {"steamid" : "76561199071899203", "name" : "SimsTake"},
+    {"steamid" : "76561199198170323", "name" : "Ilynnd"}
   ]
 }
