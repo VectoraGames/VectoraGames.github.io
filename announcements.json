@@ -1,9 +1,9 @@
 {
-  "announcements-off":
+  "announcements":
   [
     {
       "name" : "",
-      "image" : "https://raw.githubusercontent.com/VectoraGames/VectoraGames.github.io/refs/heads/main/Haunted_Hunt.png"
+      "image" : "https://raw.githubusercontent.com/VectoraGames/VectoraGames.github.io/refs/heads/main/Announcement_CustomDifficulty_PatchNotes.png"
     }
   ]
 }
